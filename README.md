@@ -2,8 +2,7 @@
 
 A Python tool for automatically detecting and blurring faces in dress model photographs using a natural-looking circular blur.
 
-![Example of face blurring](![free-photo-of-eastern-dresses-2024-shoot-by-dhanno (1)](https://github.com/user-attachments/assets/4581120e-bcc1-46c0-a2d7-e86d202d9db2)
-)
+(![free-photo-of-eastern-dresses-2024-shoot-by-dhanno (1)](https://github.com/user-attachments/assets/4581120e-bcc1-46c0-a2d7-e86d202d9db2)
 
 ## 🔍 Overview
 
