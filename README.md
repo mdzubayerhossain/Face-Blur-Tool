@@ -2,10 +2,8 @@
 
 A Python tool for automatically detecting and blurring faces in dress model photographs using a natural-looking circular blur.
 
-![Uploading image.png…]()
-
-
-
+![Example of face blurring](![free-photo-of-eastern-dresses-2024-shoot-by-dhanno (1)](https://github.com/user-attachments/assets/4581120e-bcc1-46c0-a2d7-e86d202d9db2)
+)
 
 ## 🔍 Overview
 
@@ -52,7 +50,7 @@ The tool employs a sophisticated approach to face anonymization:
 
 ```
 face-blur-tool/
-├── app.py         # Main script
+├── face_blur.py         # Main script
 ├── Dress/               # Input folder containing original images
 ├── blur_image/          # Output folder for processed images
 └── README.md            # Documentation
@@ -77,6 +75,9 @@ You can adjust several parameters in the script:
 - **Circle Size**: Change the radius multiplier (`radius * 1.2`) to cover more or less of the face area
 - **Detection Sensitivity**: Adjust the `1.1, 4` parameters in `detectMultiScale` for different face detection sensitivity
 
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
@@ -84,4 +85,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-If you have any questions or suggestions, please open an issue in this repository or contact [mdzubayerhossainpatowari@gmail.com(mailto:mdzubayerhossainpatowari@gmail.com).
+If you have any questions or suggestions, please open an issue in this repository or contact [mdzubayerhossainpatowari@gmail.com](mailto:mdzubayerhossainpatowari@gmail.com).
